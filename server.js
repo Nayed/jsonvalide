@@ -3,8 +3,10 @@
 import express from 'express'
 const app = express()
 
+app.use('/static', express.static('public'))
+
 app.get('/', (req, res) => {
-    res.send('React app will goy here')
+    res.sendFile(__dirname + '/index.html')
 })
 
 const server = app.listen(9000, () => {

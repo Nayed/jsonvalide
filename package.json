@@ -4,9 +4,17 @@
     "description": "Do you even JSON?",
     "scripts": {},
     "dependencies": {
-        "express": "^4.13.3"
+        "express": "^4.13.3",
+        "react": "^0.14.3",
+        "react-dom": "^0.14.3"
     },
-    "devDependencies": {},
+    "devDependencies": {
+        "webpack": "^1.12.9",
+        "babel-core": "^6.3.17",
+        "babel-loader": "^6.2.0",
+        "babel-preset-es2015": "^6.3.13",
+        "babel-preset-react": "^6.3.13"
+    },
     "repository": {
         "type": "git",
         "url": "git+https://github.com/Nayed/jsonvalide.git"

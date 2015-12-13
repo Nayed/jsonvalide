@@ -8,6 +8,8 @@ npm install -g babel-core
 
 npm install -g babel-preset-es2015
 
+npm install -g webpack
+
 npm install
 
 #run the app
