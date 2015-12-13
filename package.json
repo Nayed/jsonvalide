@@ -1,0 +1,20 @@
+{
+    "name": "jsonvalide",
+    "version": "0.0.1",
+    "description": "Do you even JSON?",
+    "scripts": {},
+    "dependencies": {
+        "express": "^4.13.3"
+    },
+    "devDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Nayed/jsonvalide.git"
+    },
+    "author": "Nayed SAÏD ALI",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Nayed/jsonvalide/issues"
+    },
+    "homepage": "https://github.com/Nayed/jsonvalide#readme"
+}
